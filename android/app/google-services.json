@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103872024718",
+    "firebase_url": "https://bopelotlhomogiv3-default-rdb.firebaseio.com",
+    "project_id": "bopelotlhomogiv3",
+    "storage_bucket": "bopelotlhomogiv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103872024718:android:0fab8c34f5bc43141b79df",
+        "android_client_info": {
+          "package_name": "com.example.oldies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103872024718-sftl19sr21erh443frjvondvrjh3q1ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgABc1aCJCfs7iqBocYXc86fb-IK8tu_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103872024718-sftl19sr21erh443frjvondvrjh3q1ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
